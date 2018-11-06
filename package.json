@@ -4,9 +4,14 @@
   "private": true,
   "dependencies": {
     "@linniaprotocol/linnia-js": "^0.3.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.0",
+    "path": "^0.12.7",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.6",
     "web3": "^1.0.0-beta.35",
     "web3-providers-ipc": "^1.0.0-beta.36"
   },
